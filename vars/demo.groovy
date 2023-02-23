@@ -18,7 +18,8 @@
  * #L%
  */
 import com.company.jenkins.pipeline.Demo
-import io.wcm.tooling.jenkins.pipeline.utils.logging.Logger
+//import io.wcm.tooling.jenkins.pipeline.utils.logging.Logger
+import io.wcm.devops.jenkins.pipeline.utils.logging.Logger
 
 /**
  * Demo step
